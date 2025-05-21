@@ -1,10 +1,51 @@
-- 👋Hola,eu sou Louvenaldo 
-- 👀 eu sou estudante em Análise de Dados TI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Olá! Eu sou Louvensdad Constantin
 
-<!---
-Serpantier97/Serpantier97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por tecnologia, desenvolvimento e aprendizado contínuo  
+🌍 Nascido no Haiti, vivendo e estudando em São Paulo, Brasil  
+🛐 Cristão, sempre buscando crescimento pessoal e espiritual  
+📈 Em busca de evolução na área de programação e projetos web
+
+---
+
+## 🚀 Tecnologias e Ferramentas que estou estudando:
+
+- HTML | CSS | JavaScript  
+- Python | PHP | C  
+- MySQL | PostgreSQL  
+- Git | GitHub  
+- Desenvolvimento Web e Full Stack  
+
+---
+
+## 📚 Cursos que estou fazendo:
+
+🎓 [Desenvolvimento Web Completo - Udemy](https://www.udemy.com/course/web-completo/)  
+🎓 [Algoritmo e Lógica de Programação - Udemy](https://www.udemy.com/course/algoritmo/)  
+
+---
+
+## 💼 Projetos e Planos
+
+- Criar projetos pessoais em HTML, CSS, JS e PHP  
+- Concluir portfólio online ainda este ano  
+- Trabalhar como Dev Full Stack e evoluir no mercado  
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Louvensdad GitHub Stats](https://github-readme-stats.vercel.app/api?username=louvensdad&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louvensdad&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@gmail.com *(me diga o e-mail certo que eu coloco)*  
+- 🌐 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- 📷 Instagram: [@seuusuario](https://instagram.com/seuusuario) *(se quiser incluir)*  
+
+---
+
+🧠 *"A cada linha de código, um passo mais perto dos meus sonhos."*
