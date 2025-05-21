@@ -42,9 +42,9 @@
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@gmail.com *(me diga o e-mail certo que eu coloco)*  
-- 🌐 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- 📷 Instagram: [@seuusuario](https://instagram.com/seuusuario) *(se quiser incluir)*  
+- 📧 Email: seuemail@gmail.com *(louv2015@gmail.com)*  
+- 🌐 LinkedIn: [www.linkedin.com/in/louvensdad-constantin)
+  
 
 ---
 
